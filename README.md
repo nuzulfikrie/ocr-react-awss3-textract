@@ -100,3 +100,7 @@ npm i
 npm run start
 
    ```
+
+snapshot
+![snapshot](https://github.com/user-attachments/assets/b58ada6d-86d0-4cfb-8b76-936a7f7f27f3)
+
